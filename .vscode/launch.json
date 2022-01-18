@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EgovBootApplication<boiler_plate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "egovframework.example.boot.web.EgovBootApplication",
+            "projectName": "boiler_plate",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EgovBootApplication<boiler_plate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "egovframework.EgovBootApplication",
+            "projectName": "boiler_plate",
+            "args": ""
+        }
+    ]
+}
